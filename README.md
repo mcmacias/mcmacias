@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @mcmacias. I'm using this template to help get me started on my profile. I will update as I find more things to add, or if I find a different layout I want to use.
+- 👀 I’m interested in software engineering wise: I'm honestly excited to learn. I know as a career it's constantly learning and adpating to new developments that come up. 
+-   Perosnally, I'm interested in mainly ready and traveling throughtime that way. I also enjoy learning about new cultures and foods.  
+- 🌱 I’m currently learning mainly front end development. I've been learning Javascript, HTML, CSS, Bootstrap, Jquery, and many other elements that go with these. I hope to 
+-  learn backend as well so I can gain more skills, I like being a Jack of many traits.
+- 💞️ I’m looking to collaborate on anything really, I don't have a direction that I want to go at the moment. I'm hoping that as I keep developing my skills I start to learn what
+-  areas interests me more so I can start developing my skills in those areas. 
+- 📫 How to reach me: 
+-   email: mayracarmaci@gmail.com (Best place to reach me)
+-   LinkedIN: https://www.linkedin.com/in/mayra-macias-699183272/
+
